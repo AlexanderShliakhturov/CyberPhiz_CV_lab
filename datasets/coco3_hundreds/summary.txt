@@ -1,0 +1,9 @@
+base_images_selected: 75
+train_base: 60
+val_base: 15
+train_images_generated: 360
+val_images_generated: 45
+total_images_generated: 405
+repeats_train: 6
+repeats_val: 3
+classes_src_to_new: {0: 0, 2: 1, 16: 2}

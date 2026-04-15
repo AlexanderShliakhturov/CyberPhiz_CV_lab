@@ -1,0 +1,7 @@
+path: /home/alexander/cyberphiz_cv2/datasets/coco3_hundreds
+train: images/train
+val: images/val
+names:
+  0: person
+  1: car
+  2: dog
